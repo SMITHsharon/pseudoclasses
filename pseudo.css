@@ -1,0 +1,13 @@
+.block {
+	display: inline;
+}
+
+.inline {
+	display: block;
+	border: 1px solid slategray;
+	margin: 25px 25px 25px 25px;
+}
+
+.n-child section:nth-child(2n) {
+	border: 1px solid slategray;
+}
