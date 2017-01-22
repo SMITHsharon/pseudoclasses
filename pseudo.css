@@ -8,6 +8,6 @@
 	margin: 25px 25px 25px 25px;
 }
 
-.n-child section:nth-child(2n) {
+.n-child section:nth-of-type(2n) {
 	border: 1px solid slategray;
 }
