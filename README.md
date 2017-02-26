@@ -1,14 +1,22 @@
-CSS pseudo-class exercise
+# NSS CSS Pseudoclasses Exercise
 
-#pseudoclasses
-For this exercise you can't add any classes or ids
+### Project Description
+This assignment was an exercise in css styling and accessing html elements using the class `n-child`.
+![Pseudoclass Screengrab](https:....png)
 
-1. Currently, the <li> items are block level elements. Add correct styles to remove the bullets and display them as inline elements.
+### Project Specs
+The html file was provided and could not be changed as given. 
+1. `<li>` items were given as block level elements. 
+- Added correct styles to remove the bullets and display them as inline elements
 
-2. The three <span> elements should be displayed as block elements with a 1 pixel border and 25 pixel margin on all sides.
+2. The three <span> elements ... 
+- Should be displayed as block elements with a 1 pixel border and 25 pixel margin on all sides
 
-3. In the article element with the class n-child, add a 1 pixel border around every even numbered section element.
+3. In the article element with the class n-child ... 
+- Added a 1 pixel border around every even numbered section element
 
+The given html code follows: 
+```
 <ul class="top">
   <li class="block">1</li>
   <li class="block">2</li>
@@ -55,3 +63,29 @@ For this exercise you can't add any classes or ids
   <section> D </section>
   <section> E </section>
 </article>
+```
+
+### Technologies Used
+- html
+- css
+
+
+### How To View The Blog 
+#### (Node must be installed on your machine):
+```
+git clone https://github.com/SMITHsharon/pseudoclasses.git
+cd pseudoclasses
+npm install http-server -g
+http-server -p 8080
+```
+
+This will show in your browser at: `http://localhost:8080`
+
+### Contributor
+[Sharon Smith](https://github.com/SMITHsharon)
+
+
+
+
+
+
