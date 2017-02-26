@@ -1,19 +1,18 @@
 # NSS CSS Pseudoclasses Exercise
 
 ### Project Description
-This assignment was an exercise in css styling and accessing html elements using the class `n-child`.
-![Pseudoclass Screengrab](https: .. revised .. png)
+This assignment was an exercise in `css` styling and accessing `html` elements using the class `n-child`.
+
+![Pseudoclass Screengrab](https://raw.githubusercontent.com/SMITHsharon/pseudoclasses/master/screen/pseudoclasses%20screen%20shot.png)
 
 ### Project Specs
 The html file was provided and could not be changed as given. 
-1. `<li>` items were given as block level elements. 
-- Added correct styles to remove the bullets and display them as inline elements
 
-2. The three <span> elements ... 
-- Should be displayed as block elements with a 1 pixel border and 25 pixel margin on all sides
+- `<li>` items were given as block level elements: Added correct styles to remove the bullets and display them as inline elements
 
-3. In the article element with the class n-child ... 
-- Added a 1 pixel border around every even numbered section element
+- The three <span> elements: Should be displayed as block elements with a 1 pixel border and 25 pixel margin on all sides
+
+- In the article element with the class n-child: Added a 1 pixel border around every even numbered section element
 
 The given html code follows: 
 ```
