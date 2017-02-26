@@ -2,7 +2,7 @@
 
 ### Project Description
 This assignment was an exercise in css styling and accessing html elements using the class `n-child`.
-![Pseudoclass Screengrab](https:....png)
+![Pseudoclass Screengrab](https: .. revised .. png)
 
 ### Project Specs
 The html file was provided and could not be changed as given. 
