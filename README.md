@@ -9,10 +9,10 @@ This assignment was an exercise in `css` styling and accessing `html` elements u
 The `html` file was provided and could not be changed as given. 
 
 - `<li>` items were given as block level elements: 
-  - Add correct styles to remove the bullets and display them as inline elements
+  - Adds correct styles to remove the bullets and display them as inline elements
 
 - The three `<span>` elements: 
-  - Display as block elements with a 1 pixel border and 25 pixel margin on all sides
+  - Displays as block elements with a 1 pixel border and 25 pixel margin on all sides
 
 - In the article element with the class `n-child`: 
   - Adds a 1 pixel border around every even numbered `section` element
